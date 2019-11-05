@@ -1,2 +1,3 @@
 # hello-world
 Tutorial-driven activity
+Let's change this a little bit and talk about ourselves in order to complete the tutorial...
